@@ -1,194 +1,133 @@
-<div align="center">
-  <img src="assests/images/banner3.svg" width="100%" />
-  <h1 align="center"></h1>
-  <img src="assests/images/dark_mode_badge.svg" alt="Dark Mode Recommended" />
-</div>
+<!-- SRI NAREN K | GitHub Profile README -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srinaren-in/srinaren-in/main/assets/header.svg" width="100%" alt="Sri Naren K — AI and Software Developer" />
+</p>
 
-## ~About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinarenk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/srinaren-in">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=srinaren-in&style=for-the-badge&color=5B8CFF&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="assests/gifs/gear-5-luffy-pixel.gif" width="70" />
-    </td>
-    <td valign="middle">
-      <h3>This is me, doing my thing. I build stuffs, break code, and repeat. Welcome to my digital workspace!</h3>
-    </td>
-  </tr>
-</table>
-
-## ~Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br/>HTML5
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br/>TypeScript
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br/>React
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br/>Next.js
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
-      <br/>Tailwind
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br/>Node.js
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br/>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br/>Java
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br/>MongoDB
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br/>PostgreSQL
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      <br/>Redis
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" />
-      <br/>Firebase
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-      <br/>Nginx
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br/>Git
-    </td>
-    <td align="center" valign="middle" width="98">
-      <img src="assests/images/three_dots.svg" width="48" height="48" alt="More" />
-    </td>
-  </tr>
-</table>
-
-## ~Concepts
-
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><b>Backend & System Design:</b> Node.js, REST APIs, Microservices Architecture, Nginx, API Gateway, Service Decomposition, SDLC</li>
-        <li><b>Data & AI:</b> Qdrant, Mem0, Model Context Protocol (MCP), GraphQL, OpenCV, LLaVA</li>
-        <li><b>Core CS & DSA:</b> Data Structures & Algorithms, OOP, Machine Learning, System Design, <a href="https://leetcode.com/u/_NITHEESH/">LeetCode (500+ Problems Solved)</a></li>
-        <li><b>Links & Resume:</b> <a href="https://nitheeshr.vercel.app/">Portfolio Website</a> | <a href="./NITS.RESUME.docx">Download Resume (.docx)</a></li>
-      </ul>
-    </td>
-    <td valign="middle">
-      <img src="assests/gifs/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="150" />
-    </td>
-  </tr>
-</table>
+<p align="center"><em>Building useful software. Exploring intelligent systems. Improving every day.</em></p>
 
 ---
 
-<h3 align="center"><i>"If it's not good, call it version 1.0"</i></h3>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="assests/gifs/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
+I'm a Computer Science Engineering student interested in software engineering, AI-powered applications, and cloud technologies.
+
+- 🤖 Exploring **AI Engineering, LLMs, and Agentic AI**
+- 💻 Strengthening my foundations in **Java, Python, and Data Structures & Algorithms**
+- ☁️ Learning **AWS and cloud fundamentals**
+- 🧩 Interested in turning real-world problems into practical software
+- 🎯 Working toward becoming an **AI Engineer / Software Engineer**
+
+---
+
+## ⚡ Tech Stack
+
+*A snapshot of the technologies I use, learn, or actively explore—not a claim of expert-level proficiency.*
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Java, Python, JavaScript"/>
 </p>
 
-## ~Top Repositories <span style="float: right; font-size: 0.5em; color: #8b949e; margin-top: 15px;">[Private repositories: <!-- PRIVATE_REPOS_COUNT -->8<!-- /PRIVATE_REPOS_COUNT -->]</span>
+### Web Development & Databases
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; min-height: 120px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <a href="https://github.com/theZennitS/GRepcue"><img src="https://img.shields.io/badge/GRepcue-%23181717?style=flat-square&logo=github&logoColor=white" alt="GRepcue" /></a>
-        </div>
-        <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0;">
-          GitHub Repository Discovery CLI & MCP Server. Splits natural language queries into parallel searches and ranks results.
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; min-height: 120px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <a href="https://github.com/theZennitS/Coral"><img src="https://img.shields.io/badge/Coral-%23181717?style=flat-square&logo=github&logoColor=white" alt="Coral" /></a>
-        </div>
-        <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0;">
-          Locally-running agentic AI desktop assistant executing 45+ natural language commands with multi-LLM routing and OCR.
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; min-height: 120px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://img.shields.io/badge/AgriFuse-%23181717?style=flat-square&logo=github&logoColor=white" alt="AgriFuse" />
-        </div>
-        <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0 0 12px 0;">
-          Agricultural market platform for direct farmer-to-buyer transactions, APMC pricing, and LLaVA crop disease detection.
-        </p>
-        <div style="font-size: 12px; border-top: 1px solid #21262d; padding-top: 8px;">
-          <a href="https://affarmers.vercel.app" style="color: #58a6ff; text-decoration: none; margin-right: 12px; font-weight: 500;">User App, </a>
-          <a href="https://afadmin.vercel.app" style="color: #58a6ff; text-decoration: none; font-weight: 500;">Admin App</a>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; min-height: 120px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <a href="https://github.com/theZennitS/CrisisSync"><img src="https://img.shields.io/badge/CrisisSync-%23181717?style=flat-square&logo=github&logoColor=white" alt="CrisisSync" /></a>
-        </div>
-        <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 0;">
-          A collaborative crisis management and emergency response platform designed to coordinate resources and streamline communication in real-time.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,firebase,supabase,mysql&theme=dark" alt="HTML, CSS, React, Firebase, Supabase, MySQL"/>
+</p>
 
+### Cloud & Developer Tools
 
-## ~ Stats Dashboard
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,vercel&theme=dark" alt="AWS, Git, GitHub, VS Code, Postman, Vercel"/>
+</p>
 
-<div align="center">
-  <img src="assests/images/contrib_heatmap.svg?v=6" width="100%" />
-  <br/><br/>
-  <img src="assests/images/stats_banner_with_counter.svg" width="100%" />
-  <img src="https://komarev.com/ghpvc/?username=theZennitS&style=flat-square&color=blue&label=Profile+Views" alt="github" width="0" height="0" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Learning-0F766E?style=for-the-badge" alt="Agentic AI"/>
+</p>
 
+---
 
-## ~Connect with me
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td valign="middle" align="center">
-      <img src="assests/gifs/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="30" />
-    </td>
-    <td valign="middle">
-      <a href="https://www.linkedin.com/in/nitheeshcse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMEE2NkMyIj48cGF0aCBkPSJNMy45IDEyYzAtMS43MSAxLjM5LTMuMSAzLjEtMy4xaDRWN0g3Yy0yLjc2IDAtNSAyLjI0LTUgNXMyLjI0IDUgNSA1aDR2LTEuOUg3Yy0xLjcxIDAtMy4xLTEuMzktMy4xLTMuMXpNOCAxM2g4di0ySDh2MnptOS02aC00djEuOWg0YzEuNzEgMCAzLjEgMS4zOSAzLjEgMy4xaC00VjE3aDRjMi43NiAwIDUtMi4yNCA1LTVzLTIuMjQtNS01LTV6Ii8%2BPC9zdmc+" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:nitheesh20066@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRDE0ODM2Ij48cGF0aCBkPSJNMy45IDEyYzAtMS43MSAxLjM5LTMuMSAzLjEtMy4xaDRWN0g3Yy0yLjc2IDAtNSAyLjI0LTUgNXMyLjI0IDUgNSA1aDR2LTEuOUg3Yy0xLjcxIDAtMy4xLTEuMzktMy4xLTMuMXpNOCAxM2g4di0ySDh2MnptOS02aC00djEuOWg0YzEuNzEgMCAzLjEgMS4zOSAzLjEgMy4xaC00VjE3aDRjMi43NiAwIDUtMi4yNCA1LTVzLTIuMjQtNS01LTV6Ii8%2BPC9zdmc%2B" alt="Email" /></a>
-    </td>
-  </tr>
-</table>
+### 🌾 CropShield AI
+
+**AI-assisted crop disease detection and agricultural guidance.**
+
+A project focused on helping farmers understand crop health through image-based disease analysis and practical guidance, with a South Indian agricultural context.
+
+- Image-based crop disease analysis
+- Crop health guidance and agricultural insights
+- Designed with Tamil and English user access in mind
+
+**Stack:** React · Gemini API · Firebase
+
+[Live Demo](https://cropshieldcc.vercel.app/) · [Source Code](https://github.com/naren1111naren-cloud/cropshield.cc)
+
+### 🛡️ SAFENET
+
+**Digital risk protection and online threat monitoring concept.**
+
+Exploring ways to identify suspicious profiles, brand impersonation, scam accounts, and potentially harmful applications using external data sources.
+
+**Focus:** Threat intelligence · API integration · Digital safety
+
+### 🏔️ NER-LogiAI
+
+**AI-based logistics and accessibility intelligence platform.**
+
+A project concept focused on route resilience, accessibility scoring, vulnerable route segments, and safer route comparisons for the North Eastern Region.
+
+**Focus:** AI · Geospatial intelligence · Route analysis
+
+---
+
+## 🧠 Currently Learning
+
+| Track | Current focus |
+|---|---|
+| Programming | Java, Python, problem-solving |
+| Computer Science | OOP, DSA, DBMS, Operating Systems |
+| AI Engineering | LLM fundamentals, prompting, structured outputs |
+| Agentic AI | Tool calling and agent workflows |
+| Cloud | AWS fundamentals and core services |
+| Development | Building, debugging, and deploying applications |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srinaren-in&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C9D1D9" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinaren-in&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srinaren-in&hide_border=true&theme=tokyonight&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinarenk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Naren%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/srinaren-in">
+    <img src="https://img.shields.io/badge/GitHub-srinaren-in-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center"><strong>Stay curious. Build consistently. Make technology useful.</strong></p>
